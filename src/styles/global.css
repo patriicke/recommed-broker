@@ -1,0 +1,339 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@font-face {
+  font-family: "geomanistregular";
+  src: url("fonts/geomanist-regular-webfont-bd3bb3f7.woff2");
+}
+@font-face {
+  font-family: "geomanistMedium";
+  src: url("fonts/geomanist-medium-webfont-1cb8b864.woff2");
+}
+@font-face {
+  font-family: "geomanistBold";
+  src: url("fonts/geomanist-bold-webfont-3f33d492.woff2");
+}
+
+* {
+  font-family: geomanistregular, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-secondary-50 {
+  background-color: rgb(237, 243, 253);
+}
+
+.bc_footer_nav {
+  position: relative;
+  z-index: 25;
+  background-color: #222;
+  padding: 50px 0;
+  color: #919191;
+}
+
+.bc_footer_container {
+  width: 1250px;
+}
+
+.bc_footer_container {
+  margin: 0 auto;
+  align-content: center;
+  display: flex;
+}
+
+.bc_footer_container .bc_footer_nav_col {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.bc_footer_container .bc_footer_nav_col {
+  margin: 10px;
+}
+
+.bc_footer_container a,
+.bc_footer_container a svg.icon {
+  color: #eee;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+svg.icon {
+  color: #eee;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+svg.icon.icon-2x {
+  width: 2em;
+  height: 2em;
+}
+svg.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: icomoon !important;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+img,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+  display: block;
+}
+
+.bc_footer {
+  position: relative;
+  z-index: 25;
+  background-color: #000;
+  color: #fff;
+  line-height: 20px;
+  padding: 50px 0;
+}
+.bc_footer_container {
+  width: 1250px;
+  margin: 0 auto;
+  align-content: center;
+  display: flex;
+}
+.bc_footer .copyright {
+  text-align: right;
+}
+.bc_footer_container .bc_footer_nav_col {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+.bc_footer_container .bc_footer_nav_col {
+  margin: 10px;
+}
+.bc_footer .copyright a {
+  color: #60c328;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.bc_footer_nav {
+  position: relative;
+  z-index: 25;
+  background-color: #222;
+  padding: 50px 0;
+  color: #919191;
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .bc_footer_container {
+    width: 750px;
+  }
+}
+
+@media (max-width: 600px) {
+  .bc_footer_container {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 600px) {
+  .bc_footer_container {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 600px) {
+  .bc_footer_container {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) {
+  .bc_footer_container {
+    width: auto;
+  }
+}
+
+@media (min-width: 601px) {
+  .bc_footer_container .bc_footer_nav_col {
+    flex-basis: 0;
+    flex-grow: 1;
+  }
+}
+
+@media (min-width: 601px) {
+  .bc_footer .copyright {
+    text-align: right;
+  }
+}
+@media (min-width: 601px) {
+  .bc_footer_container .bc_footer_nav_col {
+    flex-basis: 0;
+    flex-grow: 1;
+  }
+}
+
+@media (min-width: 601px) {
+  .bc_footer .copyright {
+    text-align: right;
+  }
+}
+@media (min-width: 601px) {
+  .bc_footer_container .bc_footer_nav_col {
+    flex-basis: 0;
+    flex-grow: 1;
+  }
+}
+.bc_footer_container .bc_footer_nav_col {
+  margin: 10px;
+}
+.bc_footer_container .bc_footer_nav_col {
+  margin: 10px;
+}
+
+.bc_footer_container .bc_footer_nav_col {
+  margin: 10px;
+}
+
+.bc_footer_container {
+  margin: 0 auto;
+  align-content: center;
+  display: flex;
+}
+
+.bc_footer_container .bc_footer_nav_col {
+  margin: 10px;
+}
+
+.best-broker-awards-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 72px 15px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+}
+
+.broker-awards-title-section-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+}
+
+.best-broker-awards-container .section {
+  padding-bottom: 200px;
+}
+
+.broker-awards-winners-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.best-broker-awards-container .section {
+  padding-bottom: 200px;
+}
+.broker-awards-methodology-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+.best-broker-awards-container .content .design-bubble-container {
+  height: 0px;
+  display: flex;
+  align-items: center;
+}
+
+.best-broker-awards-container .section {
+  padding-bottom: 200px;
+}
+.broker-awards-team-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.best-broker-awards-container .section {
+  padding-bottom: 200px;
+}
+
+.broker-awards-closing-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@media (min-width: 1250px) {
+  .broker-awards-title-section-container .text {
+    margin-left: 100px;
+  }
+}
+
+.broker-awards-title-section-container .text {
+  max-width: 430px;
+  padding-bottom: 32px;
+}
+
+@media (min-width: 1250px) {
+  .broker-awards-title-section-container .illustration {
+    width: 700px;
+    height: 700px;
+    position: absolute;
+    top: -233px;
+    right: -100px;
+  }
+}
+
+.broker-awards-title-section-container .illustration {
+  width: 415px;
+  height: 415px;
+  background-image: url("https://brokerchooser.com/build/assets/award_illustration-bb92d290.svg");
+  background-size: cover;
+}
+
+.title {
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  padding-bottom: 32px;
+}
+.best-broker-awards-container .content {
+  width: 100%;
+  max-width: 1169px;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+@media (min-width: 1201px) {
+  .bc_footer_container {
+    width: 1250px;
+  }
+}
+
+.bc_footer_container {
+  margin: 0 auto;
+  align-content: center;
+  display: flex;
+}

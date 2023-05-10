@@ -1,0 +1,988 @@
+[
+  {
+    "id": 1,
+    "broker_details": {
+      "name": "AvaTrade",
+      "broker_link": "https://www.xm.com/",
+      "broker_logo": "/images/broker_logos/avatrade-review.png"
+    },
+    "author": {
+      "name": "Christopher Micheal",
+      "profile_pic": "/images/team_members_cropped/11.png",
+      "author_position": "Analyst Head",
+      "author_review": "Ádám worked in banking and investment, and holds a professional degree in this field. He is a motivated finance expert, having joined Top5Brokers in 2018. He's also eager to help people find the best investment provider for them, and to make the investment sector as transparent as possible. In his spare time, he loves learning new things, especially data science, algo trading, programming and trading."
+    },
+    "created_at": "Dec 2022",
+    "updated_at": "Dec 2022",
+    "expert_verified": true,
+    "features": [
+      {
+        "name": "Recommended for",
+        "icon": "blue-checkmark",
+        "text": "",
+        "list": [
+          "forex trading"
+        ]
+      },
+      {
+        "name": "Trusted broker",
+        "icon": "blue-trust-shield",
+        "text": "Regulated by top-tier financial authorities",
+        "list": []
+      },
+      {
+        "name": "Popularity",
+        "icon": "blue-people",
+        "text": "900+ people chose this broker in the last 6 months",
+        "list": []
+      },
+      {
+        "name": "Top5Brokers Score",
+        "icon": "blue-star",
+        "text": "",
+        "list": [],
+        "rating": {
+          "a": "3.5",
+          "b": "5"
+        }
+      }
+    ],
+    "loose_money": "76% of retail CFD accounts lose money",
+    "broker_review_summary": "Avatrade is a global forex and CFD broker. Account opening is easy and fully digital. Broker offers various deposit and withdrawal options, all of which are free of charge. It also has diverse and user-friendly research and education tools. On the flip side, the product portfolio is limited as it consists only of forex, various CFDs (for stocks, indexes, commodities, etc.) and cryptos. Inactivity fees are high, and forex trading fees are not the most competitive on the market. Top5Brokers gave Broker a 4.3/5 rating based on analyzing 500+ criteria and testing via opening a live account.",
+    "review_summary_blockquote": "Broker is a regulated broker, it is overseen by top-tier financial regulators in multiple countries . Broker is also covered by investor protection in selected jurisdictions. We at Top5Brokers always test brokers with real money, including the withdrawal process.",
+    "s_and_p_cfd_benchmark_fee": {
+      "isAvaliable": true,
+      "fee": 2.6
+    },
+    "credit_debit_card_deposit": {
+      "isAvaliable": true
+    },
+    "minimum_deposit": {
+      "isAvaliable": true,
+      "fee": 100
+    },
+    "negative_balance_protection": {
+      "isAvaliable": true
+    },
+    "pros": [
+      "Easy and fast account opening",
+      "Free deposit and withdrawal options",
+      "Great research tools"
+    ],
+    "cons": [
+      "Only CFDs, forex, and cryptos offered",
+      "High inactivity fees",
+      "Average forex fees"
+    ],
+    "expert": {
+      "name": "Francis John",
+      "profile_pic": "/images/testimonial/first.png",
+      "role": "Co-founder / CPO"
+    },
+    "expert_opinion": "“Avatrade is one of the best and cheapest brokers for stock trading. I found it quite easy to open an account, and there’s no need to make an initial deposit. DEGIRO’s user interface is well designed and user-friendly, which is why I usually recommend it to my friends when they start investing into equities. I really liked that you can view the exact costs of a trade before you place an order - so no nasty surprises at the end of the month! Plus, there’s no inactivity fee, so no need to worry if you trade only once or twice a year.”",
+    "broker_main_highlights": {
+      "country_of_regulation": [
+        "Ireland",
+        "Australia",
+        "Japan",
+        "South Africa",
+        "Abu Dhabi",
+        "British Virgin Islands",
+        "Israel"
+      ],
+      "trading_fees_class": "low",
+      "inactivity_fee_charged": true,
+      "withdrawal_fee_amount": 0,
+      "minimum_deposit": 100,
+      "time_to_open_account": 1,
+      "deposit_with_bank_card": true,
+      "deposit_with_electronic_wallet": true,
+      "number_of_base_currencies": 7,
+      "demo_account_provided": true,
+      "products_offered": [
+        "Forex",
+        "CFD",
+        "Crypto"
+      ]
+    },
+    "broker_summary": {
+      "fees": {
+        "score": 3.7,
+        "summary": "has low CFD fees and average forex fees. Deposits and withdrawals are free, but inactivity fees are quite high.",
+        "pros": [
+          "No withdrawal fee",
+          "Low CFD fees"
+        ],
+        "cons": [
+          "High inactivity fees",
+          "FX trading fees are average"
+        ],
+        "fees_snapshot": [
+          {
+            "assets": "S&P 500 CFD",
+            "fee_level": "Low",
+            "fee_terms": "The fees are built into the spread, 0.5 points is the average spread cost during peak trading hours."
+          },
+          {
+            "assets": "Europe 50 CFD",
+            "fee_level": "Low",
+            "fee_terms": "The fees are built into the spread, 2 points is the average spread cost during peak trading hours."
+          },
+          {
+            "assets": "EURUSD",
+            "fee_level": "Average",
+            "fee_terms": "The fees are built into the spread, 0.9 pips is the average spread cost during peak trading hours."
+          },
+          {
+            "assets": "Inactivity fee",
+            "fee_level": "High",
+            "fee_terms": "$50 per quarter after 3 months of inactivity, after 12 straight months of non-use, a further annual administration fee of $100 is charged"
+          }
+        ],
+        "how_we_ranked_fees": {
+          "description": "We ranked Broker's fee levels as low, average or high based on how they compare to those of all reviewed brokers.",
+          "basic_terms_related_to_broker_fees": {
+            "description": "First, let's go over some basic terms related to broker fees. What you need to keep an eye on are trading fees and non-trading fees.",
+            "terms": [
+              "Trading fees occur when you trade. These can be commissions, spreads, financing rates and conversion fees.",
+              "Non-trading fees include charges not directly related to trading, like withdrawal fees or inactivity fees."
+            ]
+          },
+          "most_relevant_fees": {
+            "description": "In the sections below, you will find the most relevant fees of Broker for each asset class.",
+            "data": "For example, in the case of forex and stock index trading the most important fees are spreads, commissions and financing rates."
+          },
+          "similar_ones": {
+            "data": "We also compared Broker's fees with those of two similar brokers we selected, XM and Admirals (Admiral Markets). This selection is based on objective factors such as products offered, client profile, fee structure, etc. See a more detailed rundown of Broker alternatives."
+          },
+          "broker_trading_fees": {
+            "low_or_high": "Broker trading fees are low. The fee structure is very transparent and trading costs are easy to calculate. However, if fee levels for forex pairs are your most important consideration, then there may be better alternatives.",
+            "description": "We know it is hard to compare trading fees for CFD brokers. So how did we approach the problem of making their fees clear and comparable? We compare brokers by calculating all fees of a typical trade for selected products."
+          },
+          "popular_instruments": [
+            {
+              "name": "Stock index CFDs",
+              "elements": [
+                "SPX",
+                "EUSTX50"
+              ]
+            },
+            {
+              "name": "Stock CFDs",
+              "elements": [
+                "Apple",
+                "Vodafone"
+              ]
+            },
+            {
+              "name": "Forex",
+              "elements": [
+                "EURUSD",
+                "GBPUSD",
+                "AUDUSD",
+                "EURCHF",
+                "EURGBP"
+              ]
+            }
+          ],
+          "leverages": {
+            "description": "A typical trade means buying a leveraged position, holding it for one week and then selling. For the volume, we chose a $2,000 position for the stock index and stock CFDs and $20,000 for the forex transactions. The leverage we used was",
+            "data": [
+              "20:1 for stock index CFDs",
+              "5:1 for stock CFDs",
+              "30:1 for forex"
+            ],
+            "end_description_1": "These catch-all benchmark fees include spreads, commissions and financing costs for all brokers. Let's see the verdict for Broker fees."
+          },
+          "cfd_fees": {
+            "description": "low CFD trading fees.",
+            "title": "Broker CFD fees for a $2,000 long position held for one week",
+            "table": [
+              {
+                "name_of_fee": "EURUSD benchmark fee",
+                "broker_fee": "$16.4",
+                "xm_fee": "$8.8",
+                "admiral": "$8.9"
+              },
+              {
+                "name_of_fee": "GBPUSD benchmark fee",
+                "broker_fee": "$11.3",
+                "xm_fee": "$6.4",
+                "admiral": "$6.6"
+              },
+              {
+                "name_of_fee": "AUDUSD benchmark fee",
+                "broker_fee": "$15.3",
+                "xm_fee": "$8.7",
+                "admiral": "$8.1"
+              },
+              {
+                "name_of_fee": "EURCHF benchmark fee",
+                "broker_fee": "$4.4",
+                "xm_fee": "$9.3",
+                "admiral": "$5.8"
+              },
+              {
+                "name_of_fee": "EURGBP benchmark fee",
+                "broker_fee": "$15.5",
+                "xm_fee": "$10.1",
+                "admiral": "$10.0"
+              }
+            ]
+          },
+          "forex_fees": {
+            "description": "Broker forex fees are not the best on the market, they are rather average.",
+            "title": "Broker forex benchmark fees of a $20,000 30:1 long position held for one week",
+            "table": [
+              {
+                "name_of_fee": "EURUSD benchmark fee",
+                "": "$16.4",
+                "xm_fee": "$8.8",
+                "admiral": "$8.9"
+              },
+              {
+                "name_of_fee": "GBPUSD benchmark fee",
+                "broker_fee": "$11.3",
+                "xm_fee": "$6.4",
+                "admiral": "$6.6"
+              },
+              {
+                "name_of_fee": "AUDUSD benchmark fee",
+                "broker_fee": "$15.3",
+                "xm_fee": "$8.7",
+                "admiral": "$8.1"
+              },
+              {
+                "name_of_fee": "EURCHF benchmark fee",
+                "broker_fee": "$4.4",
+                "xm_fee": "$9.3",
+                "admiral": "$5.8"
+              },
+              {
+                "name_of_fee": "EURGBP benchmark fee",
+                "broker_fee": "$15.5",
+                "xm_fee": "$10.1",
+                "admiral": "$10.0"
+              }
+            ]
+          },
+          "forex_trading_fees_spreads": {
+            "description": "As a plus, Forex fees at Broker are really transparent. The company offers a handy Forex Calculator that lets you to calculate your next forex position in a few simple steps:",
+            "steps": [
+              "Pick the instrument you want to trade",
+              "Set your account currency",
+              "Choose your preferred leverage level",
+              "Select whether to buy or sell",
+              "Set the parameters of your planned trade (volume, etc)"
+            ]
+          },
+          "non_trading_fees": {
+            "description1": "Broker has mixed non-trading fees. Broker doesn't charge any account fees, while deposits and withdrawals are also free of charge.",
+            "description2": "On the negative side, Broker charges an inactivity fee of $50/€50/£50 (depending on your account currency) per quarter after 3 straight months of inactivity. On top of that, after 12 consecutive months of non-use, an annual administration fee of $100/€100/£100 will be deducted. When added up, these inactivity-related fees are quite high compared with Broker's peers.",
+            "title": "AvaTrade non-trading fees",
+            "table": [
+              {
+                "name_of_fee": "Account fee",
+                "broker_fee": "No",
+                "xm_fee": "No",
+                "admiral": "No"
+              },
+              {
+                "name_of_fee": "Inactivity fee",
+                "broker_fee": "Yes",
+                "xm_fee": "Yes",
+                "admiral": "Yes"
+              },
+              {
+                "name_of_fee": "Deposit fee",
+                "broker_fee": "$0",
+                "xm_fee": "$0",
+                "admiral": "$0"
+              },
+              {
+                "name_of_fee": "Withdrawal fee",
+                "broker_fee": "$0",
+                "xm_fee": "$0",
+                "admiral": "$0"
+              }
+            ]
+          }
+        }
+      },
+      "account_opening": {
+        "score": 5,
+        "summary": "Account opening at AvaTrade is smooth and fully digital. You can start trading literally in minutes.",
+        "pros": [
+          "Fast",
+          "Fully digital",
+          "Low minimum deposit"
+        ],
+        "cons": [
+          "None"
+        ],
+        "acceptance": {
+          "strong_heading": "Clients from almost all countries are accepted by Broker, with some exceptions",
+          "other_description": " including the US, Canada, Belgium or Iran. Broker operates under a different brand, Atrade in Israel, though we have not tested their services."
+        },
+        "minimum_deposit": {
+          "amount": "$100"
+        },
+        "account_types": [
+          {
+            "name": "Retail account (EU) / Standard account (Rest of the world)",
+            "description": "account is owned by an individual"
+          },
+          {
+            "name": "Corporate account",
+            "description": "account is owned by a legal entity"
+          },
+          {
+            "name": "AvaOptions account",
+            "description": "to trade FX options"
+          },
+          {
+            "name": "Spread betting account",
+            "description": "offered only in the UK and Ireland"
+          },
+          {
+            "name": "Islamic account",
+            "description": "a swap-free account to meet Sharia requirements"
+          }
+        ],
+        "professional_trading_account": "If you are an experienced trader, you can request Broker to open a Professional Trading account for you, where the leverage is higher than in the Standard account. This requires that you have relevant experience in the financial sector and sufficient trading activity in the past 12 months, and hold at least €500,000 portfolio value.",
+        "demo_account": true,
+        "testing": "In this review, we tested the EU retail account.",
+        "how_to_open_account": {
+          "strong_header": "Creating an account is quick and easy",
+          "description": "just like with most other CFD/Forex brokers",
+          "steps": [
+            "Enter some basic personal data (you can use your existing profiles on Facebook or Google as a shortcut)",
+            "Fill in information on your employment, savings and income status",
+            "Answer a few questions assessing your trading experience, knowledge and goals",
+            "Verify your identity and residency by uploading a copy of your ID card, driver's license or passport, as well as a copy of a recent utility bill or bank statement"
+          ]
+        },
+        "best_alternative": [
+          {
+            "broker_name": "XM full review",
+            "broker_link": "/xm"
+          },
+          {
+            "broker_name": "Admirals [Admiral Markets] full review",
+            "broker_link": "/admiral"
+          },
+          {
+            "broker_name": "Tickmill full review",
+            "broker_link": "/tickmill"
+          },
+          {
+            "broker_name": "FxPro full review",
+            "broker_link": "/fxpro"
+          }
+        ]
+      },
+      "deposit_and_withdrawal": {
+        "score": 4.5,
+        "summary": "AvaTrade offers several free options for deposit and withdrawal. On the negative side, withdrawal took us 3 business days.",
+        "pros": [
+          "Credit/Debit card available",
+          "Free withdrawal",
+          "No deposit fee"
+        ],
+        "cons": [
+          "Slow withdrawal - over 3 days"
+        ],
+        "account_base_currency": {
+          "base_currencies": [
+            "USD",
+            "EUR",
+            "GBP",
+            "CHF",
+            "AUD",
+            "ZAR"
+          ],
+          "given_note": "AUD is only available for Australian clients.",
+          "table": [
+            {
+              "name_of_fee": "Number of base currencies",
+              "broker_fee": "6",
+              "xm_fee": "10",
+              "admiral": "11"
+            }
+          ]
+        },
+        "rival_competion": {
+          "description": [
+            "Why does this matter? For two reasons. First, if you fund your account in the same currency as your bank account, you won't be charged a currency conversion fee. Second, if you trade assets in the same currency as your account base currency, you will not have to pay a conversion fee.",
+            "A convenient way to save on currency conversion fees is by opening a multi-currency bank account at a digital bank. They usually offer bank accounts in several currencies with great currency exchange rates, as well as free or cheap international bank transfers. Opening an account only takes a few minutes on your phone."
+          ]
+        },
+        "deposit_fees_and_options": {
+          "description": "Broker charges no deposit fees. In addition to making a deposit by bank transfer or credit/debit cards, you can also use electronic wallets, including the following (though some country restrictions usually apply):",
+          "fees_and_options": [
+            "PayPal",
+            "Neteller",
+            "Skrill",
+            "Klarna",
+            "Webmoney",
+            "POLi Payments",
+            "Boleto",
+            "Perfect Money"
+          ]
+        },
+        "minimum_deposit": {
+          "value": 100,
+          "deposit_options_table": [
+            {
+              "name_of_fee": "Bank transfer",
+              "broker_fee": "",
+              "xm_fee": "",
+              "admiral": ""
+            },
+            {
+              "name_of_fee": "Credit/debit card",
+              "broker_fee": "",
+              "xm_fee": "",
+              "admiral": ""
+            },
+            {
+              "name_of_fee": "Electronic wallets",
+              "broker_fee": "",
+              "xm_fee": "",
+              "admiral": ""
+            }
+          ],
+          "description_1": "Please note that although depositing with credit/debit cards is usually instant, your first such transaction may take up to 1 business day to go through (it took us about 4-5 hours). This is because AvaTrade carries out a security verification for each card when it is used for the first time.",
+          "description_2": "If you prefer depositing via bank transfer, this can take several business days. You can only deposit money from accounts that are in your name."
+        },
+        "withdrawal_fees_and_options": {
+          "description": "Broker doesn't charge any withdrawal fees. You can use the same options for withdrawal as for deposits.",
+          "table": [
+            {
+              "name_of_fee": "Bank transfer",
+              "broker_fee": "",
+              "xm_fee": "",
+              "admiral": ""
+            },
+            {
+              "name_of_fee": "Credit/debit card",
+              "broker_fee": "",
+              "xm_fee": "",
+              "admiral": ""
+            },
+            {
+              "name_of_fee": "Electronic wallets",
+              "broker_fee": "",
+              "xm_fee": "",
+              "admiral": ""
+            },
+            {
+              "name_of_fee": "Withdrawal fee",
+              "broker_fee": "0",
+              "xm_fee": "0",
+              "admiral": "0"
+            }
+          ],
+          "other_description": [
+            "As a general rule, withdrawals can only be sent via payment methods by which you funded your account with. For example, if you have earlier deposited $1,000 by credit card, the first $1,000 you withdraw must go to your credit card before you can use any other method (such as bank transfer) to withdraw additional funds. This is a quite common rule among similar brokers, required by anti-money laundering regulations.",
+            "How long does it take to withdraw money from Broker? We tested debit card withdrawal and it took 3 business days.",
+            "You can only withdraw money to accounts that are in your name."
+          ],
+          "steps_to_withdraw_money": [
+            "Log in to your Broker account",
+            "Go to 'Withdraw' in the main menu that opens from the top left corner",
+            "Select the withdrawal method",
+            "Add the amount you wish to withdraw"
+          ]
+        }
+      },
+      "web_trading_platform": {
+        "score": 3.8,
+        "summary": "AvaTrade's web platform is user-friendly, well-designed, and has a unique order type to protect you from losses. However, it lacks customizability, two-step login and price alerts.",
+        "pros": [
+          "User-friendly",
+          "Clear fee report",
+          "Good search function"
+        ],
+        "cons": [
+          "No two-step (safer) login",
+          "Limited customizability (for charts, workspace)",
+          "No price alerts"
+        ],
+        "platforms_to_use": {
+          "web": {
+            "score": 3.8,
+            "isAvailable": "Yes"
+          },
+          "mobile": {
+            "score": 4.7,
+            "isAvailable": "Yes"
+          },
+          "desktop": {
+            "score": 3.4,
+            "isAvailable": "Yes"
+          }
+        },
+        "trading_platforms_to_use": [
+          {
+            "name": "WebTrader",
+            "short_description": "Broker's own trading platform",
+            "used_languages": [
+              "English",
+              "Dutch",
+              "Hungarian",
+              "Swedish",
+              "Thai",
+              "Indonesian",
+              "German",
+              "French",
+              "Chinese",
+              "Polish",
+              "Spanish",
+              "Portuguese",
+              "Italian",
+              "Arabic",
+              "Mongolian",
+              "Russian",
+              "Turkish",
+              "Japanese"
+            ],
+            "look_and_feel": "Webtrader is user-friendly and well designed. Even first-timers can easily handle the platform. However, it's not customizable; for example, you can't change the size and position of the tabs.",
+            "login_and_security": "WebTrader only offers one-step login. A two-step login procedure would provide an added layer of security.",
+            "search_functions": "The platform's search functions work well. You can search by starting to type an asset's name or by clicking one of the asset categories.",
+            "placing_orders": [
+              "Market",
+              "Limit",
+              "Stop"
+            ],
+            "placing_orders_description_1": "To get a better understanding of these terms, read this overview of order types. There is also a Good 'til time (GTT) order time limit you can use to set an exact date and time for the expiry of an order.",
+            "placing_orders_description_2": "A unique feature offered by Broker is AvaProtect: it's basically a hedge/insurance you can buy, for a pre-determined fee depending on how long you want your trade to be insured (1 hour, 1 day, etc). Should you have any losses on that trade, Broker will reimburse your losses. Note that you can't use this feature on limit orders, only on market orders.",
+            "alerts_and_notifications": "Unfortunately, you can't set price alerts and notifications.",
+            "portfolio_and_fee_reports": "Broker provides clear portfolio and fee reports. You can find them under the 'History' section. Also, if you click on your positions, you can see the swaps charged."
+          },
+          {
+            "name": "MetaTrader 4",
+            "short_description": "a third-party trading platform",
+            "used_languages": [
+              "Arabic",
+              "Bulgarian",
+              "Chinese",
+              "Croatian",
+              "Czech",
+              "Danish",
+              "Dutch",
+              "English",
+              "Estonian",
+              "Finnish",
+              "French",
+              "German",
+              "Greek",
+              "Hebrew",
+              "Hindi",
+              "Hungarian",
+              "Indonesian",
+              "Italian",
+              "Japanese",
+              "Korean",
+              "Latvian",
+              "Lithuanian",
+              "Malay",
+              "Mongolian",
+              "Persian",
+              "Polish",
+              "Portuguese",
+              "Romanian",
+              "Russian",
+              "Serbian",
+              "Slovak",
+              "Slovenian",
+              "Spanish",
+              "Swedish",
+              "Tajik",
+              "Thai",
+              "Traditional Chinese",
+              "Turkish",
+              "Ukrainian",
+              "Uzbek",
+              "Vietnamese"
+            ],
+            "look_and_feel": "MetaTrader 4 has great customizability. You can easily change the size and the position of the tabs. \n However, the platform feels outdated and some features are hard to find. For example, it took us a while to figure out how to add an asset to the watchlist.",
+            "login_and_security": "Just like the WebTrader platform, MetaTrader 4 provides only one-step login. Two-step authentication would be more secure.",
+            "search_functions": "The search functions are OK. You can find assets grouped into categories. However, we missed the usual search function where you can type an asset's name manually.",
+            "placing_orders": [
+              "Market",
+              "Limit",
+              "Stop"
+            ],
+            "placing_orders_description_1": "If you are not familiar with order types, read this overview.",
+            "placing_orders_description_2": "There are also order time limits you can use:  \n Good 'til cancelled (GTC) \n Good 'til time (GTT)",
+            "alerts_and_notifications": "You can't set alerts and notifications on MetaTrader 4 web trading platform. This feature is available only on the mobile app and on the desktop trading platform.",
+            "portfolio_and_fee_reports": "MetaTrader 4 has clear portfolio and fee reports. You can easily see your profit-loss balance and the commissions you paid. These reports can be found under the 'History' tab. We didn't find a way to download them, though."
+          },
+          {
+            "name": "MetaTrader 5",
+            "short_description": "a third-party trading platform",
+            "used_languages": [
+              ""
+            ],
+            "look_and_feel": "",
+            "login_and_security": "",
+            "search_functions": "",
+            "placing_orders": [
+              "First, you can select from a list of option trading strategies.",
+              "After that, you can set all the details of the trade on an easy-to-use graphical interface."
+            ],
+            "placing_orders_description_1": "",
+            "placing_orders_description_2": "",
+            "alerts_and_notifications": "Unfortunately, you can't set price alerts and notifications",
+            "portfolio_and_fee_reports": "Broker provides clear portfolio and fee reports. You can find them under the 'History' section. Also, if you click on your positions, you can see the swaps charged."
+          },
+          {
+            "name": "AvaOptions",
+            "short_description": "Broker's own trading platform for CFD options",
+            "used_languages": [
+              "English"
+            ],
+            "look_and_feel": "AvaOptions is an intuitive and well-designed platform. You can easily set the underlying asset and the strategy you would like to trade. However, it's not customizable; for example, you can't change the size and layout of the various sections.",
+            "login_and_security": "Just like the WebTrader platform, AvaOptions provides only one-step login. Two-step authentication would be more secure.",
+            "search_functions": "The platform's search function works well. You can search by simply starting to type an asset's name.",
+            "placing_orders": [],
+            "placing_orders_description_1": "First, you can select from a list of option trading strategies.",
+            "placing_orders_description_2": "After that, you can set all the details of the trade on an easy-to-use graphical interface.",
+            "alerts_and_notifications": "Unfortunately, you can't set price alerts and notifications",
+            "portfolio_and_fee_reports": "Broker provides clear portfolio and fee reports. You can find them under the 'History' section. Also, if you click on your positions, you can see the swaps charged."
+          }
+        ],
+        "trading_platforms_to_use_descriptions_1": "In this review, we tested WebTrader, MetaTrader 4 and AvaOptions, as these are the most popular among customers. Our scoring and Pro/Con list are based on our assessment of the WebTrader platform.",
+        "trading_platforms_to_use_descriptions_2": "Note that most ETF CFDs and individual stock CFDs can be traded only on the MT5 platform and not on MT4 or the WebTrader platform."
+      },
+      "mobile_trading_platform": {
+        "score": 4.7,
+        "summary": "AvaTradeGo is a modern, easy-to-use app with a decent set of features, including the AvaProtect insurance scheme. However, order types are limited and the app comes only in English.",
+        "pros": [
+          "User-friendly",
+          "Good search function",
+          "Price alerts"
+        ],
+        "cons": [
+          "No two-step (safer) login"
+        ],
+        "trading_platforms_to_use": [
+          {
+            "name": "AvaTradeGO",
+            "short_description": "Broker's own mobile app",
+            "look_and_feel": "The Broker mobile trading platform looks nice and is user-friendly. \n Beyond the usual mobile functions such as search or alerts, even education videos and customer support chat are available right inside the app.",
+            "login_and_security": "By default, AvaTrade provides only one-step login. For added convenience, though, you can also set up biometric or PIN code authentication.",
+            "search_functions": "The app's search functions are good. When you search by typing an asset's name, a list of relevant results appears. Another way is to browse the various asset categories.",
+            "placing_orders": [
+              "Market",
+              "Limit",
+              "Stop"
+            ],
+            "placing_orders_description_1": "Similarly to the web platform, the mobile app also offers the AvaProtect insurance feature.",
+            "placing_orders_description_2": "There are also order time limits you can use: \n Good 'til canceled (GTC) \n Good 'til time (GTT)",
+            "alerts_and_notifications": "You can set price alerts that will send you push notifications. Additionally, you can also set expiration criteria to these alerts and notifications.",
+            "portfolio_and_fee_reports": ""
+          },
+          {
+            "name": "AvaOptions",
+            "short_description": "Broker's own mobile app for trading forex options",
+            "look_and_feel": "AvaOptions is exactly the same as on the web. The platform is well designed and has lots of functionalities despite being a mobile platform, but can be hard to navigate on a mobile device. For starters, you can view the platform only in horizontal mode.",
+            "login_and_security": "Just like the WebTrader platform, AvaOptions provides only one-step login. Two-step authentication would be more secure.",
+            "search_functions": "The platform's search function is hard to find. You have to tap on the pencil icon on the top left, under the Ava logo.",
+            "placing_orders": [],
+            "placing_orders_description_1": "The AvaOptions mobile provides the same options strategies and trade details as the web platform.",
+            "placing_orders_description_2": "",
+            "alerts_and_notifications": "Unfortunately, you can't set price alerts and notifications",
+            "portfolio_and_fee_reports": "AvaOptions provides clear portfolio and fee reports. You can find them under the 'My Account' and 'History' sections. Also, if you click on your positions, you can see the swaps charged."
+          },
+          {
+            "name": "MetaTrader 4",
+            "short_description": "a well-established third-party trading platform.",
+            "look_and_feel": "",
+            "login_and_security": "",
+            "search_functions": "",
+            "placing_orders": [],
+            "placing_orders_description_1": "",
+            "placing_orders_description_2": "",
+            "alerts_and_notifications": "",
+            "portfolio_and_fee_reports": ""
+          }
+        ],
+        "trading_platforms_to_use_description_1": "In this review, we tested BrokerGO, the platform used by most clients. It is available for both Android and iOS. We tested it on Android.",
+        "trading_platforms_to_use_description_2": "Unlike the MetaTrader trading platforms, BrokerGO is available only in English."
+      },
+      "desktop_trading_platform": {
+        "score": 3.4,
+        "summary": "In design and function, AvaTrade's MetaTrader 4 desktop platform is almost the same as the MT4 web platform. A big difference is that you can set price alerts on the desktop platform.",
+        "pros": [
+          "Clear fee report",
+          "Good customizability (for charts, workspace)",
+          "Price alerts"
+        ],
+        "cons": [
+          "No two-step (safer) login"
+        ],
+        "descriptions": [
+          "You can use MetaTrader 4, MetaTrader 5 and AvaOptions as desktop trading platforms. The latter is only for trading forex options.",
+          "In this review, we tested the MetaTrader 4 desktop trading platform, as it offers more assets to trade, not just forex options.",
+          "It has the same design, is available in the same languages, offers the same order types (trailing stop is also available), has the same search functions, and offers the same portfolio and fee reports as the MT4 web trading platform. These reports can be found under the 'Account History' tab: right click on one position, then choose 'Save as Detailed Report'.",
+          "The major difference is that you can set alerts and notifications in the form of mobile push and email notifications on the desktop trading platform. To set email or mobile notifications, you have to add your email address and mobile MetaQuotes ID (you can find it in the MT4 mobile app's settings). You can add them if you go to 'Tools' and then 'Options.'"
+        ]
+      },
+      "markets_and_products": {
+        "score": 2.3,
+        "summary": "AvaTrade offers only forex and CFDs, such as stock, index, forex and commodity CFDs. It doesn't offer other popular asset classes such as real stocks.",
+        "disclaimer": "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 71% of retail investor accounts lose money when trading CFDs with this provider. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.",
+        "descriptions": [
+          "Broker is a forex broker but also offers some CFDs. To learn more about CFDs, read our CFD trading tips.",
+          "Broker's currency pair selection is OK, in the same ballpark as its closest competitors. CFD coverage of individual stocks and ETFs is rather average. Most of these stocks can only be traded on the MT5 platform and not on the MT4 or WebTrader platforms.",
+          "Bond CFDs include Japanese and European government bonds. Unlike at many brokers, at Broker you can also trade the VIX index.",
+          "Additionally, FX options are available through the AvaOptions platform. At AvaOptions, you can trade more than 40 different instruments. For this, you'll need a separate account from the main account."
+        ],
+        "product_selection_table": {
+          "title": "AvaTrade product selection",
+          "table": [
+            {
+              "name_of_fee": "Currency pairs (#)",
+              "broker_fee": "55",
+              "xm_fee": "55",
+              "admiral": "47"
+            },
+            {
+              "name_of_fee": "Currency pairs",
+              "broker_fee": "55",
+              "xm_fee": "55",
+              "admiral": "47"
+            },
+            {
+              "name_of_fee": "Stock index CFDs",
+              "broker_fee": "31",
+              "xm_fee": "24",
+              "admiral": "43"
+            },
+            {
+              "name_of_fee": "Stock CFDs",
+              "broker_fee": "610",
+              "xm_fee": "1,261",
+              "admiral": "3,252"
+            },
+            {
+              "name_of_fee": "ETF CFDs",
+              "broker_fee": "60",
+              "xm_fee": "-",
+              "admiral": "372"
+            },
+            {
+              "name_of_fee": "Commodity CFDs",
+              "broker_fee": "18",
+              "xm_fee": "15",
+              "admiral": "18"
+            },
+            {
+              "name_of_fee": "Bond CFDs",
+              "broker_fee": "2",
+              "xm_fee": "-",
+              "admiral": "2"
+            },
+            {
+              "name_of_fee": "Cryptos",
+              "broker_fee": "20",
+              "xm_fee": "-",
+              "admiral": "42"
+            }
+          ]
+        },
+        "automated_trading": "Broker offers automated trading through DupliTrade. The minimum deposit is $2,000. "
+      },
+      "research": {
+        "score": 4.6,
+        "summary": "AvaTrade has user-friendly research tools, from trading ideas to a nice news feed. The only thing we missed was fundamental data on stocks.",
+        "pros": [
+          "Good interactive chart",
+          "Trading ideas",
+          "User-friendly"
+        ],
+        "cons": [
+          "No 24/7 support"
+        ],
+        "research_tools": [
+          "WebTrader trading platform",
+          "MetaTrader trading platform",
+          "AvaOptions trading platform",
+          "Website"
+        ],
+        "tested_brokers_research_tools_description": "We tested Broker's research tools on WebTrader, as they're the best ones in our opinion. Research tools are user-friendly and available in the same languages as the WebTrader trading platform.",
+        "trading_ideas": "Broker provides trading ideas through Trading Central, a third-party research provider. The ideas are based purely on technical analysis, and cover certain commodities, stock indices, as well as most FX pairs. You can find them if you click 'Trading Central', then 'Analysts Views' or 'Forex Featured Ideas'.",
+        "fundamental_data": "The best place to access fundamental data is Broker's economic calendar. We really liked the feature that allows you to gauge historical volatility and trends: for example, if you see that a Bank of Canada interest rate decision is coming up, you can click the 'impact' button and see how the USD/CAD price evolved after recent decisions. \n We missed fundamental data on stocks, however.",
+        "charting": "Broker has good charting tools. You can easily edit the charts and the interface has a great design. There are 90 technical indicators you can use, which we thought was more than enough.",
+        "news_feed": [
+          "We liked Broker's news feeds, provided by Trading Central. You can find them under the 'Market Buzz' section.",
+          "Not only can you filter the news feeds for a specific asset, but you are also shown a sentiment score for that asset. For example, if all the articles are bullish/positive, then a 100% positive score is given.",
+          "Additionally, there's a tool called Trend Analysis that bluntly says if the asset \"might fall\" or \"might rise\" x or y%. The somewhat sensationalist headline is based on technical analysis by AI software that is also presented among trading ideas.",
+          "Overall, we wouldn't say that the quality of the information presented in 'Market Buzz' is good enough to base your trading decisions on, but it's still much more useful compared with other MetaTrader brokers' news feeds.",
+          "Additionally, Broker has a blog that posts daily market updates. It has the kind of content you can find at many similar outlets: news (current events, both politics and economy), as well as regular market commentary presented in videos, where they also show some technical analysis and setups."
+        ]
+      },
+      "customer_service": {
+        "score": 5,
+        "summary": "AvaTrade has great customer support, giving fast and relevant answers in many local languages. On the negative side, support is not available 24/7, only 24/5.",
+        "pros": [
+          "Phone support",
+          "Live chat",
+          "Fast response time"
+        ],
+        "cons": [
+          "No 24/7 support"
+        ],
+        "contact_broker_via": [
+          "live chat",
+          "phone",
+          "email"
+        ],
+        "descriptions": [
+          "Broker has a great live chat. There were no long waiting times; we were able to reach a customer support agent almost immediately.",
+          "We got relevant and detailed answers. Besides English, you can chat in many other languages including Arabic, Chinese, French, Italian, German or Russian, among others.",
+          "Broker phone support is OK. On the website, you can find a long list of local telephone numbers for most countries, so you don't have to dial an international number. We had mixed results when trying to call customer service: sometimes we could immediately speak to an agent (in English); however, at another time, the phone call was disconnected after 3+ minutes of waiting time.",
+          "We received answers to our emails within a day, which is quite fast. On one occasion, though, the response we received didn't directly answer our question, but merely referred to a link.",
+          "We missed 24/7 availability. Broker customer support is only available 24/5, which is still considered quite good."
+        ]
+      },
+      "education": {
+        "score": 5,
+        "summary": "AvaTrade is packed with lots of quality materials to educate yourself, and also offers a demo account.",
+        "pros": [
+          "Demo account",
+          "Trading platform tutorial",
+          "Educational videos"
+        ],
+        "cons": [
+          "None"
+        ],
+        "description": "Broker's education section is great, offering several learning opportunities when it comes to trading basics, economic indicators or charting.",
+        "learn_ways": [
+          "Demo account",
+          "Platform tutorial videos",
+          "General educational videos",
+          "Quality educational articles",
+          "Webinars"
+        ],
+        "video_library": "Within the video library, you'll find a good number of videos, most of which are great quality. Broker also provides webinars on a regular basis."
+      },
+      "safety": {
+        "score": null,
+        "summary": "AvaTrade is overseen by a number of regulators. It's a well-established brand but is not listed on any exchange, does not disclose financial information and does not have a bank parent.",
+        "pros": [
+          "Majority of clients belong to a top-tier financial authority",
+          "Negative balance protection"
+        ],
+        "cons": [
+          "Does not hold a banking license",
+          "Not listed on stock exchange",
+          "Financial information is not publicly available"
+        ],
+        "is_broker_regulated": {
+          "answer": "Yes, it is regulated by numerous authorities across the world, including some top-tier ones:",
+          "data": [
+            "the Central Bank of Ireland",
+            "the B.V.I Financial Services Commission on the British Virgin Islands",
+            "the Australian Securities and Investments Commission (ASIC)",
+            "the Financial Sector Conduct Authority (FSCA) in South Africa",
+            "the Japanese Financial Services Agency (FSA)",
+            "the Financial Futures Association of Japan (FFAJ)",
+            "the Abu Dhabi Global Market Authorities Financial Services Regulatory Authority (ADGM – FSRA)",
+            "Israel Securities Authority (ISA)"
+          ],
+          "other_description": "Also, AVA Trade EU Ltd operates a Polish Branch under the Broker EU authorization, which has been approved by the Polish Financial Supervision Authority."
+        },
+        "based_in_description": "Broker is based in Ireland and was founded in 2006.",
+        "is_broker_safe": {
+          "answer": "o be certain, it is best to check two things:",
+          "data": [
+            "how you are protected if something goes wrong",
+            "what the background of the broker is"
+          ]
+        },
+        "how_you_are_protected": "Broker operates several subsidiaries; which one of these will serve you depends on your residency. This is important for you because the investor protection amount and the regulator differ from entity to entity.",
+        "legal_entities": {
+          "title": "AvaTrade legal entities",
+          "table": [
+            {
+              "country": "EU",
+              "protection_amount": "€20,000",
+              "regulator": "Central Bank of Ireland",
+              "legal_entity": "AVA Trade EU Ltd"
+            },
+            {
+              "country": "Australia",
+              "protection_amount": "No protection",
+              "regulator": "Australian Securities and Investments Commission (ASIC)",
+              "legal_entity": "Ava Capital Markets Australia Pty Ltd"
+            },
+            {
+              "country": "South Africa",
+              "protection_amount": "No protection",
+              "regulator": "Financial Sector Conduct Authority (FSCA)",
+              "legal_entity": "Ava Capital Markets Pty"
+            },
+            {
+              "country": "Japan",
+              "protection_amount": "No protection",
+              "regulator": "Japanese Financial Services Agency (FSA), Financial Futures Association of Japan (FFAJ)",
+              "legal_entity": "Ava Trade Japan K.K."
+            },
+            {
+              "country": "Middle East",
+              "protection_amount": "No protection",
+              "regulator": "Abu Dhabi Global Market Authorities Financial Services Regulatory Authority (ADGM – FSRA)",
+              "legal_entity": "AvaTrade Middle East Ltd"
+            },
+            {
+              "country": "Israel",
+              "protection_amount": "No protection",
+              "regulator": "Israel Securities Authority (ISA)",
+              "legal_entity": "ATrade Ltd"
+            },
+            {
+              "country": "International clients",
+              "protection_amount": "No protection",
+              "regulator": "B.V.I Financial Services Commission",
+              "legal_entity": "AVA Trade Ltd"
+            }
+          ]
+        },
+        "negative_balance": "Broker provides negative balance protection for retail clients.",
+        "background": [
+          "Broker was established in 2006. The longer the track record of a broker, the more proof we have that it has successfully survived previous financial crises.",
+          "Having a long track record and being regulated by several authorities, including some top-tier ones, are all great signs for Broker's safety."
+        ]
+      },
+      "bottom_line": {
+        "summary": "Broker is regulated by several authorities globally, including the top-tier Central Bank of Ireland and the Australian Securities and Investments Commission (ASIC), therefore it is considered safe.",
+        "description": [
+          "We liked the seamless and hassle-free account opening. You can use a lot of deposit and withdrawal options, all free of charge. We also liked that you can use many user-friendly tools for research.",
+          "Broker has some drawbacks though. The product range is limited to forex, CFDs and cryptos, and there is a high fee charged for inactivity. Lastly, there are better alternatives if forex trading fees are your main concern.",
+          "As there is only a small minimum deposit, and your account will be ready for trading quickly, feel free to try Broker."
+        ]
+      },
+      "faq": {
+        "summary": "We recommend Broker for forex and cfd traders looking for an option to use metatrader platforms.",
+        "description": "Below you can find links to all aspects of Broker in this comprehensive collection.",
+        "lower_fees_lower_cost": "We detailed this in our Broker fees article",
+        "minimum_deposit": "Our ultimate guide to the Broker minimum deposit is updated regularly.",
+        "start_broker_account": "Look no further than our evaluation of the Broker account opening.",
+        "trading_app": "Here's our expert view after checking the Broker trading app.",
+        "quality_of_customer_service_satisfactory": "All you need to know about the Broker customer service.",
+        "legit_scam": "Is Broker legit features all the key aspects you need to look at to see if a broker is safe and legit.",
+        "free_or_premium_or_both": "A glance at actual costs and whether Broker is really free.",
+        "good_for_beginners": "We checked it in Is Broker good for beginners.",
+        "should_you_buy_silver_bullet": "Research for silver bugs in the Silver buy on Broker guide",
+        "trade_options": "We explored the topic in Can you trade options on Broker?",
+        "minimum_account_balance": "Check out the current account balance requirements at Broker in our What is the minimum account balance at Broker article.",
+        "looking_for_commission": "We collected them in Broker commission and fees.",
+        "withdraw_money": "We tested it and collected the options and costs in How to withdraw money on Broker.",
+        "use_broker": "All you need to know about using the broker in How to use Broker?"
+      }
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "broker_id": "1",
+    "broker_details": {
+      "name": "FXTM",
+      "score": 4.9,
+      "country_origin": "Cyprus",
+      "broker_description": "FXTM is a global leader in online financial trading and investing, offering FX, indices, commodities, and more.",
+      "broker_link": "https://register.fxtm.info/global-financial-markets-1/?utm_source=top5brokers.ng&utm_medium=display&utm_campaign=click-tracker&utm_content=general-default-1x1",
+      "broker_logo": "https://top5brokers.ng/go-to-broker/fxtm/open-account?measurementCategory=01fmybro%2F02notrel%2F03notrel&measurementList=top-5-list-visit-broker-btn-logo",
+      "broker_percentage": 71
+    },
+    "broker_fees": {
+      "score": 3.7,
+      "fees_summary": "Low trading fees, Swap Free fees, high inactivity fee"
+    },
+    "broker_stock_etf_fees": {
+      "us": "",
+      "uk": "",
+      "germary": ""
+    },
+    "broker_forex_fees": {
+      "eurusd": "16.4",
+      "eurgbp": "15.5",
+      "audusd": "15.3"
+    },
+    "broker_fund_fees": {
+      "mutual": ""
+    },
+    "broker_bond_fees": {
+      "us_treasury": "",
+      "eu_government": ""
+    },
+    "broker_options_fees": {
+      "us": "",
+      "uk": "",
+      "germany": ""
+    },
+    "broker_future_fees": {
+      "us": "",
+      "uk": "",
+      "germary": ""
+    },
+    "broker_crypto_fees": {
+      "spot": ""
+    },
+    "broker_cfd_fees": {
+      "s&p_500": 2.6,
+      "europe_50": 2,
+      "apple": 6.6,
+      "vodafone": 8.3
+    },
+    "broker_non_trading_fees": {
+      "account": false,
+      "custody": false,
+      "inactivity": true,
+      "withdrawal": 0
+    },
+    "broker_deposit_and_withdrawal": {
+      "score": 4.5,
+      "base_currencies": 4
+    },
+    "broker_deposit_type": {
+      "bank": true,
+      "credit_and_debit": true,
+      "electronic_wallet": true
+    },
+    "broker_withdrawal_type": {
+      "bank": true,
+      "credit_and_debit": true,
+      "electronic_wallet": true,
+      "time": 3
+    },
+    "broker_account_opening": {
+      "score": 5,
+      "full_online": true,
+      "minimum_deposit": "50",
+      "time_to_open_account": 1,
+      "broker_required_documents": "passport / national ID card / driver's license Proof of residency: bank statement / utility bill"
+    },
+    "broker_trading_platform": {
+      "web_platform": {
+        "score": 4.2
+      },
+      "mobile_platform": {
+        "score": 4.7
+      },
+      "desktop_platform": {
+        "score": 3.4
+      }
+    },
+    "broker_markets_and_products": {
+      "score": 4.5,
+      "stocks": true,
+      "fractional_shares": true,
+      "etfs": true,
+      "forex": true,
+      "funds": false,
+      "bonds": false,
+      "options": false,
+      "futures": false,
+      "crypto": false,
+      "cfds": true,
+      "cfd_discraimer": "Trading CFDs is a high risk activity and you may lose more than your initial deposit. You should never invest money that you cannot afford to lose. Top5brokers will not accept any liability for loss or damage as a result of reliance on the information contained within this website. Please be fully informed regarding the risks and costs associated with trading the financial markets."
+    },
+    "broker_research_education": {
+      "research_score": 4.6,
+      "education_score": 4.6,
+      "charting_quality": "Great",
+      "demo_account": true
+    },
+    "broker_customer_service": {
+      "score": 4.5,
+      "phone": true,
+      "live_chat": true,
+      "email": true,
+      "availability_24": false
+    },
+    "security": {
+      "investor_protection_amount": "€20,000 for EU clients, no protection for other clients",
+      "banking_background": false,
+      "listed_stock_exchange": false,
+      "foundation_date": 2011,
+      "country_regulation": [
+        "United Kingdom",
+	"Cyprus",
+        "South Africa",
+        "India",
+      ]
+    }
+  }
+]
